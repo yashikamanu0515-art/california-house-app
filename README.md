@@ -1,4 +1,4 @@
-# 🏡 California House Price Predictor
+# 🏡  House Price Calculation
 
 ## How to Run Locally
 
